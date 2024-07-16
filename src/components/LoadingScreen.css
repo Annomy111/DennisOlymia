@@ -1,0 +1,33 @@
+.loading-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.loading-screen img {
+  max-width: 300px;
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  width: 80%;
+  background-color: #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress {
+  width: 50%;
+  height: 10px;
+  background-color: #4caf50;
+  animation: loading 2s infinite;
+}
+
+@keyframes loading {
+  0% { width: 0; }
+  100% { width: 100%; }
+}

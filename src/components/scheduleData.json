@@ -1,0 +1,824 @@
+[
+  {
+    "day": "Day -2",
+    "date": "Wed, July 24",
+    "events": [
+      {
+        "time": "2 PM",
+        "duration": "2h",
+        "sport": "Football (M)",
+        "event": "🔷 Group Stage"
+      },
+      {
+        "time": "2:30 PM",
+        "duration": "1.5h",
+        "sport": "Rugby Sevens (M)",
+        "event": "🔷 Pool Rounds"
+      }
+    ]
+  },
+  {
+    "day": "Day -1",
+    "date": "Thurs, July 25",
+    "events": [
+      {
+        "time": "8:30 AM",
+        "duration": "1h",
+        "sport": "Archery",
+        "event": "🔷 Individual Ranking Round (W)"
+      },
+      {
+        "time": "1:15 PM",
+        "duration": "1h",
+        "sport": "Archery",
+        "event": "🔷 Individual Ranking Round (M)"
+      },
+      {
+        "time": "4 PM",
+        "duration": "2h",
+        "sport": "Football (W)",
+        "event": "🔷 Group Stage"
+      },
+      {
+        "time": "8 AM",
+        "duration": "",
+        "sport": "Handball (W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Rugby Sevens (M)",
+        "event": "🔷 Pool Rounds"
+      },
+      {
+        "time": "6 PM",
+        "duration": "",
+        "sport": "Handball (W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "7 PM",
+        "duration": "",
+        "sport": "Rugby Sevens (M)",
+        "event": "🔶 Quarter-Finals"
+      }
+    ]
+  },
+  {
+    "day": "Day 0",
+    "date": "Fri, July 26",
+    "events": [
+      {
+        "time": "6:30 PM",
+        "duration": "3h",
+        "sport": "Opening Ceremony",
+        "event": ""
+      }
+    ]
+  },
+  {
+    "day": "Day 1",
+    "date": "Sat, July 27",
+    "events": [
+      {
+        "time": "8 AM",
+        "duration": "2h",
+        "sport": "Rowing",
+        "event": "🔷 Heats (Various)"
+      },
+      {
+        "time": "8 AM",
+        "duration": "1.5h",
+        "sport": "Shooting",
+        "event": "🔷 Qualification Men's & Women's 10m Air Pistol"
+      },
+      {
+        "time": "8:30 AM",
+        "duration": "",
+        "sport": "Equestrian",
+        "event": "🔷 Eventing Dressage Team & Individual Day 1"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Fencing",
+        "event": "🔷🔶 Individual Epee (W), Sabre (M)"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Hockey (M)",
+        "event": "🔷 Pool Stage"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Judo",
+        "event": "🔷🔶 -48kg (W), -60kg (M)"
+      },
+      {
+        "time": "9:30 AM",
+        "duration": "",
+        "sport": "Shooting",
+        "event": "🔷🔶 Mixed Team 10m Air Rifle"
+      },
+      {
+        "time": "9:30 AM",
+        "duration": "",
+        "sport": "Mixed Team 10m Air Rifle",
+        "event": "🥇 Final"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Artistic Gymnastics (M)",
+        "event": "🔷 Qualification"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Basketball (M)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Diving (W)",
+        "event": "🥇 3m Synchro Final"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Swimming",
+        "event": "🔷🔶 100m Butterfly (W), 400m Freestyle (M/W)"
+      },
+      {
+        "time": "11 AM",
+        "duration": "",
+        "sport": "Skateboarding (M)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "11 AM",
+        "duration": "",
+        "sport": "Tennis",
+        "event": "🔷 Singles/Doubles (M/W)"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Badminton",
+        "event": "🔷 Group Stage (Singles, Doubles, Mixed)"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Handball (M/W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Water Polo (W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "1:30 PM",
+        "duration": "",
+        "sport": "Cycling (Road)",
+        "event": "🥇 Individual Time Trial (M/W)"
+      },
+      {
+        "time": "1:30 PM",
+        "duration": "",
+        "sport": "Rugby Sevens (M)",
+        "event": "🏅 Placement Matches, Semi-Finals, Medal Matches"
+      },
+      {
+        "time": "2 PM",
+        "duration": "",
+        "sport": "Canoe Slalom (M)",
+        "event": "🔷 Heats C1"
+      },
+      {
+        "time": "2 PM",
+        "duration": "",
+        "sport": "Football (M)",
+        "event": "🔷 Group Stage"
+      },
+      {
+        "time": "2 PM",
+        "duration": "",
+        "sport": "Table Tennis",
+        "event": "🔷 Singles Prelims, Mixed Doubles Round of 16"
+      },
+      {
+        "time": "2:30 PM",
+        "duration": "",
+        "sport": "Artistic Gymnastics (M)",
+        "event": "🔷 Qualification"
+      },
+      {
+        "time": "2:30 PM",
+        "duration": "",
+        "sport": "Boxing",
+        "event": "🔷🔶 Round of 16/32 (various weight classes)"
+      },
+      {
+        "time": "3 PM",
+        "duration": "",
+        "sport": "Judo",
+        "event": "🏅 Medal Rounds -48kg (W), -60kg (M)"
+      },
+      {
+        "time": "4 PM",
+        "duration": "",
+        "sport": "Basketball (M)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "4 PM",
+        "duration": "",
+        "sport": "Skateboarding (M)",
+        "event": "🥇 Street Final"
+      },
+      {
+        "time": "4:15 PM",
+        "duration": "",
+        "sport": "Archery",
+        "event": "🔷 Men's Individual Ranking Round"
+      },
+      {
+        "time": "5 PM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "6 PM",
+        "duration": "",
+        "sport": "Fencing",
+        "event": "🏅 Semi-Finals & Finals Individual Epee (W), Sabre (M)"
+      },
+      {
+        "time": "6 PM",
+        "duration": "",
+        "sport": "Surfing",
+        "event": "🔷 Round 1 (M/W)"
+      },
+      {
+        "time": "6:30 PM",
+        "duration": "",
+        "sport": "Badminton",
+        "event": "🔷 Group Stage (Singles, Doubles, Mixed)"
+      },
+      {
+        "time": "7 PM",
+        "duration": "",
+        "sport": "Artistic Gymnastics (M)",
+        "event": "🔷 Qualification"
+      },
+      {
+        "time": "7 PM",
+        "duration": "",
+        "sport": "Boxing",
+        "event": "🔷🔶 Round of 16/32 (various weight classes)"
+      },
+      {
+        "time": "7 PM",
+        "duration": "",
+        "sport": "Table Tennis",
+        "event": "🔷 Singles Round 1"
+      },
+      {
+        "time": "7:30 PM",
+        "duration": "",
+        "sport": "Swimming",
+        "event": "🔶 Semi-Finals/Finals (Various)"
+      },
+      {
+        "time": "8 PM",
+        "duration": "",
+        "sport": "Basketball (M)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "8 PM",
+        "duration": "",
+        "sport": "Volleyball (M)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "9 PM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "9:30 PM",
+        "duration": "",
+        "sport": "Men's Pool Stages",
+        "event": ""
+      }
+    ]
+  },
+  {
+    "day": "Day 2",
+    "date": "Sun, July 28",
+    "events": [
+      {
+        "time": "8 AM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "8 AM",
+        "duration": "",
+        "sport": "Rowing",
+        "event": "🔷 Repechage, Heats (Various)"
+      },
+      {
+        "time": "8:30 AM",
+        "duration": "",
+        "sport": "Archery",
+        "event": "🔷 Women's Team Eliminations"
+      },
+      {
+        "time": "8:30 AM",
+        "duration": "",
+        "sport": "Artistic Gymnastics (W)",
+        "event": "🔷 Qualification"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Fencing",
+        "event": "🔷🔶 Men's Epee, Women's Foil"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Hockey (W)",
+        "event": "🔷 Pool Stage"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Judo",
+        "event": "🔷🔶 -52kg (W), -66kg (M)"
+      },
+      {
+        "time": "9:30 AM",
+        "duration": "",
+        "sport": "Equestrian",
+        "event": "🔷 Eventing Cross-Country Team & Individual Day 1"
+      },
+      {
+        "time": "9:30 AM",
+        "duration": "",
+        "sport": "Hockey (M/W)",
+        "event": "🔷 Pool Stage"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Boxing",
+        "event": "🔷🔶 Round of 32/16 (Various)"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Sailing",
+        "event": "🔷 Men's & Women's Windsurfing, Skiff"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Cycling (Mountain Bike)",
+        "event": "🥇 Women's Cross-Country"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Handball (W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Rugby Sevens (W)",
+        "event": "🔷 Pool Rounds"
+      },
+      {
+        "time": "1:15 PM",
+        "duration": "",
+        "sport": "Archery",
+        "event": "🏅 Women's Team Medal Matches"
+      },
+      {
+        "time": "1:50 PM",
+        "duration": "",
+        "sport": "Artistic Gymnastics (W)",
+        "event": "🔷 Qualification"
+      },
+      {
+        "time": "2 PM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "2:30 PM",
+        "duration": "",
+        "sport": "Canoe Slalom (W)",
+        "event": "🔶 K1 Semi-Finals"
+      },
+      {
+        "time": "2:30 PM",
+        "duration": "",
+        "sport": "Rugby Sevens (W)",
+        "event": "🔷 Pool Rounds"
+      },
+      {
+        "time": "3 PM",
+        "duration": "",
+        "sport": "Judo",
+        "event": "🏅 Medal Rounds -52kg (W), -66kg (M)"
+      },
+      {
+        "time": "4 PM",
+        "duration": "",
+        "sport": "Football (W)",
+        "event": "🔷 Group Stage"
+      },
+      {
+        "time": "4 PM",
+        "duration": "",
+        "sport": "Handball (M/W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "5 PM",
+        "duration": "",
+        "sport": "Artistic Gymnastics (W)",
+        "event": "🔷 Qualification"
+      },
+      {
+        "time": "5 PM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "6 PM",
+        "duration": "",
+        "sport": "Fencing",
+        "event": "🏅 Semi-Finals & Finals Men's Epee, Women's Foil"
+      },
+      {
+        "time": "6 PM",
+        "duration": "",
+        "sport": "Handball (M/W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "6:30 PM",
+        "duration": "",
+        "sport": "Table Tennis",
+        "event": "🔷 Singles Round 1"
+      },
+      {
+        "time": "6:45 PM",
+        "duration": "",
+        "sport": "Hockey (M)",
+        "event": "🔷 Pool Stage"
+      },
+      {
+        "time": "7 PM",
+        "duration": "",
+        "sport": "Boxing",
+        "event": "🔷🔶 Round of 32/16 (Various)"
+      },
+      {
+        "time": "7 PM",
+        "duration": "",
+        "sport": "Table Tennis",
+        "event": "🔷 Singles Round 1"
+      },
+      {
+        "time": "7:30 PM",
+        "duration": "",
+        "sport": "Swimming",
+        "event": "🔶 Semi-Finals/Finals (Various)"
+      },
+      {
+        "time": "8:10 PM",
+        "duration": "",
+        "sport": "Artistic Gymnastics (W)",
+        "event": "🔷 Qualification"
+      },
+      {
+        "time": "9 PM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "9:30 PM",
+        "duration": "",
+        "sport": "Water Polo (M)",
+        "event": "🔷 Prelims"
+      }
+    ]
+  },
+  {
+    "day": "Day 3",
+    "date": "Mon, July 29",
+    "events": [
+      {
+        "time": "8 AM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "8 AM",
+        "duration": "",
+        "sport": "Shooting",
+        "event": "🔷 Men's Trap Qualification Day 1"
+      },
+      {
+        "time": "8:30 AM",
+        "duration": "",
+        "sport": "Archery",
+        "event": "🔷 Men's Team Eliminations"
+      },
+      {
+        "time": "8:30 AM",
+        "duration": "",
+        "sport": "Fencing",
+        "event": "🔷🔶 Men's Foil,Women's Sabre"
+      },
+      {
+        "time": "8:30 AM",
+        "duration": "",
+        "sport": "Rowing",
+        "event": "🔷 Semi-Finals, Repechage, Heats (Various)"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Hockey (M)",
+        "event": "🔷 Pool Stage"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Judo",
+        "event": "🔷🔶 -57kg (W), -73kg (M)"
+      },
+      {
+        "time": "9 AM",
+        "duration": "",
+        "sport": "Sport Climbing",
+        "event": "🔷 Men's Boulder/Lead Semi-Finals (Boulder), Women's Speed Qualification"
+      },
+      {
+        "time": "9:30 AM",
+        "duration": "",
+        "sport": "Hockey (W)",
+        "event": "🔷 Pool Stage"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Basketball (W)",
+        "event": "🔷 Group Phase"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Boxing",
+        "event": "🔷🔶 Round of 32/16 (Various)"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Diving (M)",
+        "event": "🥇 10m Synchro Platform Final"
+      },
+      {
+        "time": "10 AM",
+        "duration": "",
+        "sport": "Swimming",
+        "event": "🔷🔶 400m Individual Medley (W), 100m Backstroke (W)"
+      },
+      {
+        "time": "11 AM",
+        "duration": "",
+        "sport": "Archery",
+        "event": "🔷 Individual Eliminations (M/W)"
+      },
+      {
+        "time": "11 AM",
+        "duration": "",
+        "sport": "Fencing",
+        "event": "🔷🔶 Women's Epee Team"
+      },
+      {
+        "time": "11 AM",
+        "duration": "",
+        "sport": "Skateboarding (W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "11:30 AM",
+        "duration": "",
+        "sport": "Rowing",
+        "event": "🔷 Heats Men's Eight, Women's Eight"
+      },
+      {
+        "time": "12 PM",
+        "duration": "",
+        "sport": "Basketball (W)",
+        "event": "🔷 Group Phase"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Badminton",
+        "event": "🔷 Group Stage (Singles, Doubles, Mixed)"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Handball (M)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Rugby Sevens (W)",
+        "event": "🔷 Pool Rounds"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Table Tennis",
+        "event": "🔷 Singles Round 1"
+      },
+      {
+        "time": "1 PM",
+        "duration": "",
+        "sport": "Water Polo (W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "1:15 PM",
+        "duration": "",
+        "sport": "Archery",
+        "event": "🏅 Men's Team Medal Matches"
+      },
+      {
+        "time": "2 PM",
+        "duration": "",
+        "sport": "Beach Volleyball",
+        "event": "🔷 Prelims (M/W)"
+      },
+      {
+        "time": "2:30 PM",
+        "duration": "",
+        "sport": "Boxing",
+        "event": "🔷🔶 Round of 32/16 (Various)"
+      },
+      {
+        "time": "2:30 PM",
+        "duration": "",
+        "sport": "Canoe Slalom (M)",
+        "event": "🔷🔶 C1 Semi-Finals & Finals"
+      },
+      {
+        "time": "3 PM",
+        "duration": "",
+        "sport": "Judo",
+        "event": "🏅 Medal Rounds -57kg (W), -73kg (M)"
+      },
+      {
+        "time": "3 PM",
+        "duration": "",
+        "sport": "Table Tennis",
+        "event": "🔶 Mixed Doubles Semi-Finals"
+      },
+      {
+        "time": "4 PM",
+        "duration": "",
+        "sport": "Artistic Gymnastics (M)",
+        "event": "🥇 Team Final"
+      },
+      {
+        "time": "4 PM",
+        "duration": "",
+        "sport": "Hockey (W)",
+        "event": "🔷 Pool Stage"
+      },
+      {
+        "time": "4 PM",
+        "duration": "",
+        "sport": "Skateboarding (W)",
+        "event": "🥇 Street Final"
+      },
+      {
+        "time": "4:15 PM",
+        "duration": "",
+        "sport": "Basketball (W)",
+        "event": "🔷 Group Phase"
+      },
+      {
+        "time": "4:30 PM",
+        "duration": "",
+        "sport": "Equestrian",
+        "event": "🏅 Eventing Jumping Team & Individual Finals"
+      },
+      {
+        "time": "4:30 PM",
+        "duration": "",
+        "sport": "Handball (M)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "4:30 PM",
+        "duration": "",
+        "sport": "Hockey (W)",
+        "event": "🔷 Pool Stage"
+      },
+      {
+        "time": "6 PM",
+        "duration": "",
+        "sport": "Fencing",
+        "event": "🏅 Semi-Finals & Finals Men's Foil, Women's Sabre"
+      },
+      {
+        "time": "6 PM",
+        "duration": "",
+        "sport": "Surfing",
+        "event": "🔷 Round 3 (M/W)"
+      },
+      {
+        "time": "6:30 PM",
+        "duration": "",
+        "sport": "Badminton",
+        "event": "🔷 Group Stage (Singles, Doubles, Mixed)"
+      },
+      {
+        "time": "6:30 PM",
+        "duration": "",
+        "sport": "Volleyball (W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "7 PM",
+        "duration": "",
+        "sport": "Boxing",
+        "event": "🔷🔶 Round of 32/16 (Various)"
+      },
+      {
+        "time": "7 PM",
+        "duration": "",
+        "sport": "Table Tennis",
+        "event": "🔷 Singles Round 2"
+      },
+      {
+        "time": "7:30 PM",
+        "duration": "",
+        "sport": "Swimming",
+        "event": "🔶/🥇 Finals (Various)"
+      },
+      {
+        "time": "8 PM",
+        "duration": "",
+        "sport": "Basketball (W)",
+        "event": "🔷 Group Phase"
+      },
+      {
+        "time": "8 PM",
+        "duration": "",
+        "sport": "Volleyball (W)",
+        "event": "🔷 Prelims"
+      },
+      {
+        "time": "9 PM",
+        "duration": "",
+        "sport": "Water Polo (W)",
+        "event": "🔷 Prelims"
+      }
+    ]
+  }
+]
